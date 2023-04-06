@@ -65,14 +65,6 @@ src="https://user-images.githubusercontent.com/33343210/61764970-4eb40180-ae05-1
   </div>
 </br>
 
-## Authors
-
-* **Le Dinh Trung (ldt)** - *Initial work* - [dtrung98](https://github.com/dtrung98)
-
-
-### License
-
-* This project is licensed under The GNU General Public License v3.0 - see the [LICENSE.md](/LICENSE) file for details
 
 ### Acknowledgments
 
